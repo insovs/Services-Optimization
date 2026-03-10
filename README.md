@@ -1,7 +1,6 @@
 # Windows Service Optimization
 
-Disables unnecessary **Windows background services** to improve performance, reduce CPU/RAM etc usage and lower system latency.  
-Designed for **gaming, competitive and performance-focused** setups. Everything is **safe**, **effective**, and **fully reversible with one click**.
+Disables unnecessary **Windows background services** to improve performance, reduce CPU/RAM etc usage and lower system latency. Designed for **gaming, competitive and performance-focused** setups. Everything is **safe**, **effective**, and **fully reversible with one click**.
 
 > [!NOTE]
 > A backup of your current service configuration is **automatically created** before any change is made. You can restore it at any time via the **Revert Optimization** button.
