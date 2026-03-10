@@ -7,8 +7,6 @@ Designed for **gaming, competitive and performance-focused** setups. Everything 
 > A backup of your current service configuration is **automatically created** before any change is made. You can restore it at any time via the **Revert Optimization** button.
 
 ## Preview
-
-**Proceed Optimization** — category selector dialog  
 ![Proceed Optimization](https://imgur.com/rn70v3j.png)
 
 <details>
