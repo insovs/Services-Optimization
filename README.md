@@ -11,14 +11,17 @@ Disables unnecessary **Windows background services** to improve performance, red
 <details>
   <summary>Click to show more screenshots</summary>
 
-**Revert Optimization** — backup selection and restore  
+**Revert Optimization** — backup selection and restore
+
 ![Revert Optimization](https://imgur.com/GpLiM9G.png)
 
-**Show Service List** — live status of all tracked services  
+**Show Service List** — live status of all tracked services
+
 ![Show Service List](https://imgur.com/KYVltbi.png)
 
-**Result** of a lightweight Windows without too much effort
-![Task Manager result](https://imgur.com/lEdrvYW.png)
+**Result** — résultat d'un Windows léger sans trop d'effort
+
+![Task Manager result](https://imgur.com/5MNTEpy.png)
 
 </details>
 
