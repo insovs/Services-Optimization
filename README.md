@@ -21,7 +21,7 @@ Disables unnecessary **Windows background services** to improve performance, red
 If you need any help or have questions, feel free to join the **[Discord support server](https://discord.gg/insovs)** — I'll be happy to assist you.
 
 ## Installation & Launch
-Head to the **[Releases](https://github.com/insovs/insopti-ServiceOptimization/releases)** section and download `ServiceOptimization.ps1`, then **right-click** it → **"Run with PowerShell"**.  
+Head to the **[Releases](https://github.com/insovs/insopti-ServiceOptimization/releases)** section and download `Windows-ServiceOptimization.ps1`, then **right-click** it → **"Run with PowerShell"**.  
 The script will automatically request administrator privileges and open a dark GUI.
 
 > [!CAUTION]
@@ -78,7 +78,7 @@ The script will automatically request administrator privileges and open a dark G
 ## Revert / Restore
 
 To undo all changes:
-1. Open `ServiceOptimization.ps1` and click **Revert Optimization**.
+1. Open `Windows-ServiceOptimization.ps1` and click **Revert Optimization**.
 2. Select the backup you want to restore from the list.
 3. Click **Restore** — the registry is reimported silently.
 4. **Reboot** to apply.
