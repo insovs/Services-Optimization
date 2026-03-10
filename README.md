@@ -1,6 +1,6 @@
-# insopti ServiceOptimization
+# Windows Service Optimization
 
-Disables unnecessary **Windows background services** to improve performance, reduce CPU/RAM usage and lower system latency.  
+Disables unnecessary **Windows background services** to improve performance, reduce CPU/RAM etc usage and lower system latency.  
 Designed for **gaming, competitive and performance-focused** setups. Everything is **safe**, **effective**, and **fully reversible with one click**.
 
 > [!NOTE]
