@@ -19,9 +19,9 @@ Disables unnecessary **Windows background services** to improve performance, red
 
 ![Show Service List](https://imgur.com/KYVltbi.png)
 
-**Result** — résultat d'un Windows léger sans trop d'effort
+**Result** — a lightweight Windows without too much effort
 
-![Task Manager result](https://imgur.com/5MNTEpy.png)
+![Task Manager result](https://imgur.com/lEdrvYW.png)
 
 </details>
 
