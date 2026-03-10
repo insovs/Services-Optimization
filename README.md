@@ -8,14 +8,20 @@ Designed for **gaming, competitive and performance-focused** setups. Everything 
 
 ## Preview
 
+**Proceed Optimization** — category selector dialog  
 ![Proceed Optimization](https://imgur.com/rn70v3j.png)
 
 <details>
   <summary>Click to show more screenshots</summary>
 
+**Revert Optimization** — backup selection and restore  
 ![Revert Optimization](https://imgur.com/GpLiM9G.png)
+
+**Show Service List** — live status of all tracked services  
 ![Show Service List](https://imgur.com/KYVltbi.png)
-![Task Manager result](https://imgur.com/lEdrvYW.png)
+
+**Result** — Task Manager after optimization (46 processes, 2% CPU)  
+![Task Manager result](https://imgur.com/5MNTEpy.png)
 
 </details>
 
