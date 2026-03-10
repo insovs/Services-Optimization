@@ -22,7 +22,7 @@ Disables unnecessary **Windows background services** to **improve performance, r
 
 ## Installation & Launch
 Head to the **[Releases](https://github.com/insovs/insopti-ServiceOptimization/releases)** section and download `Windows-ServiceOptimization.ps1`, then **right-click** it → **"Run with PowerShell"**.  
-The script will automatically request administrator privileges and open a dark GUI.
+The script will automatically request administrator privileges and open a GUI.
 
 > [!CAUTION]
 > If you are **not** allowed to **run PowerShell scripts**, enable it first:
