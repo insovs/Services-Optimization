@@ -1,9 +1,10 @@
-# Windows Service Optimization
+# insopti ServiceOptimization
 
-Disables unnecessary **Windows background services** to **improve performance, reduce CPU/RAM etc usage and lower system latency.** Designed for **gaming, competitive and performance-focused** setups. Everything is **safe**, **effective**, and **fully reversible with one click**.
+Disables unnecessary **Windows background services** to improve performance, reduce CPU/RAM usage and lower system latency.  
+Designed for **gaming, competitive and performance-focused** setups. Everything is **safe**, **effective**, and **fully reversible with one click**.
 
 > [!NOTE]
-> **A backup** of your current service configuration is **automatically created** before any change is made. You can restore it at any time via the **Revert Optimization** button.
+> A backup of your current service configuration is **automatically created** before any change is made. You can restore it at any time via the **Revert Optimization** button.
 
 ## Preview
 
@@ -14,18 +15,19 @@ Disables unnecessary **Windows background services** to **improve performance, r
 
 ![Revert Optimization](https://imgur.com/GpLiM9G.png)
 ![Show Service List](https://imgur.com/KYVltbi.png)
+![Task Manager result](https://imgur.com/lEdrvYW.png)
 
 </details>
 
 ## Support
-**If you need any help or have questions**, feel free to **join** the **[Discord support server](https://discord.gg/insovs)** — I'll be happy to assist you.
+If you need any help or have questions, feel free to join the **[Discord support server](https://discord.gg/insovs)** — I'll be happy to assist you.
 
 ## Installation & Launch
-Head to the **[Releases](https://github.com/insovs/insopti-ServiceOptimization/releases)** section and download `Windows-ServiceOptimization.ps1`, then **right-click** it → **"Run with PowerShell"**.  
-The script will automatically request administrator privileges and open a GUI.
+Head to the **[Releases](https://github.com/insovs/insopti-ServiceOptimization/releases)** section and download `ServiceOptimization.ps1`, then **right-click** it → **"Run with PowerShell"**.  
+The script will automatically request administrator privileges and open a dark GUI.
 
 > [!CAUTION]
-> If you are **not** allowed to **run PowerShell scripts**, enable it first:
+> If you are not allowed to run PowerShell scripts, enable it first:
 > ```
 > Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
 > ```
@@ -78,7 +80,7 @@ The script will automatically request administrator privileges and open a GUI.
 ## Revert / Restore
 
 To undo all changes:
-1. Open `Windows-ServiceOptimization.ps1` and click **Revert Optimization**.
+1. Open `ServiceOptimization.ps1` and click **Revert Optimization**.
 2. Select the backup you want to restore from the list.
 3. Click **Restore** — the registry is reimported silently.
 4. **Reboot** to apply.
