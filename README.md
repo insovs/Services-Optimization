@@ -1,9 +1,9 @@
-# insopti ServiceOptimization
+# Windows Service Optimization
 
-Disables unnecessary **Windows background services** to improve performance, reduce CPU/RAM usage and lower system latency. Designed for **gaming, competitive and performance-focused** setups. Everything is **safe**, **effective**, and **fully reversible with one click**.
+Disables unnecessary **Windows background services** to **improve performance, reduce CPU/RAM etc usage and lower system latency.** Designed for **gaming, competitive and performance-focused** setups. Everything is **safe**, **effective**, and **fully reversible with one click**.
 
 > [!NOTE]
-> A backup of your current service configuration is **automatically created** before any change is made. You can restore it at any time via the **Revert Optimization** button.
+> **A backup** of your current service configuration is **automatically created** before any change is made. You can restore it at any time via the **Revert Optimization** button.
 
 ## Preview
 ![Proceed Optimization](https://imgur.com/rn70v3j.png)
@@ -26,14 +26,14 @@ Disables unnecessary **Windows background services** to improve performance, red
 </details>
 
 ## Support
-If you need any help or have questions, feel free to join the **[Discord support server](https://discord.gg/insovs)** — I'll be happy to assist you.
+**If you need any help or have questions**, feel free to join the **[Discord support server](https://discord.gg/insovs)** — I'll be happy to assist you.
 
 ## Installation & Launch
 Head to the **[Releases](https://github.com/insovs/insopti-ServiceOptimization/releases)** section and download `ServiceOptimization.ps1`, then **right-click** it → **"Run with PowerShell"**.  
 The script will automatically request administrator privileges and open a dark GUI.
 
 > [!CAUTION]
-> If you are not allowed to run PowerShell scripts, enable it first:
+> If you are not allowed to run **PowerShell scripts**, *enable* it first:
 > ```
 > Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
 > ```
