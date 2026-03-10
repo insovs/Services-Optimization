@@ -18,8 +18,8 @@ Designed for **gaming, competitive and performance-focused** setups. Everything 
 **Show Service List** — live status of all tracked services  
 ![Show Service List](https://imgur.com/KYVltbi.png)
 
-**Result** — Task Manager after optimization (46 processes, 2% CPU)  
-![Task Manager result](https://imgur.com/5MNTEpy.png)
+**Result** of a lightweight Windows without too much effort
+![Task Manager result](https://imgur.com/lEdrvYW.png)
 
 </details>
 
