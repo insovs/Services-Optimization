@@ -9,8 +9,14 @@ Designed for **gaming, competitive and performance-focused** setups. Everything 
 ## Preview
 
 ![Proceed Optimization](https://imgur.com/rn70v3j.png)
+
+<details>
+  <summary>Click to show more screenshots</summary>
+
 ![Revert Optimization](https://imgur.com/GpLiM9G.png)
 ![Show Service List](https://imgur.com/KYVltbi.png)
+
+</details>
 
 ## Support
 If you need any help or have questions, feel free to join the **[Discord support server](https://discord.gg/insovs)** — I'll be happy to assist you.
@@ -87,4 +93,4 @@ To undo all changes:
 
 <p align="center">
   <sub>©insopti — <a href="https://guns.lol/inso.vs">guns.lol/inso.vs</a> | For personal use only.</sub>
-</p>>
+</p>
